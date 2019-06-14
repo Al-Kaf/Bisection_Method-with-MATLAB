@@ -33,5 +33,4 @@ If (f(xl) . f(xr) = 0), the root is xr and stop.
 
 # References
 S.C. Chapra, “Applied Numerical Methods with MATLAB for Engineers and Scientists”, 3rd Edition, McGraw- Hill, 2011.
-
 S.C. Chapra and R.P. Canale, “Numerical Methods for Engineers”, 5th Edition, McGraw- Hill, 2006.
