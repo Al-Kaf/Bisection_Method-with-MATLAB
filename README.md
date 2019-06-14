@@ -20,8 +20,9 @@ Loop
 End loop at the desired interval size
 
 # how is work
-Step 1: Choose lower xl and upper xu         guesses for the root such that: 
+Step 1: Choose lower xl and upper xu guesses for the root such that: 
        f(xl) f(xu) < 0
+
 Step 2: The root estimate is:
          xr = (xl + xu)/2
 
